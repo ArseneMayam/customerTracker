@@ -32,7 +32,7 @@
 			<version>6.0.0.Alpha2</version>
 			<type>pom</type>
 		</dependency>
-		<!-- MYSQL connector -->
+		<!-- MYSQL connector JDBC DRIVER -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
